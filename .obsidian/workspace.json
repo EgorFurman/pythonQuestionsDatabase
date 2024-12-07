@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "69690240441fb9c2",
+        "id": "8b1a5abe209f4180",
         "type": "tabs",
         "children": [
           {
-            "id": "a04dc475ec3a1da3",
+            "id": "394349559e1cf0ea",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,8 +154,26 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a04dc475ec3a1da3",
+  "active": "394349559e1cf0ea",
   "lastOpenFiles": [
+    "Databases/ORM/Без названия.md",
+    "Databases/СУБД/Без названия.md",
+    "Testing/Без названия.md",
+    "Web/frontend/Верстка/HTML/Без названия.md",
+    "Web/frontend/Верстка/CSS/Новый текстовый документ.txt",
+    "Web/frontend/Верстка/CSS/Новая папка",
+    "Databases/SQL/Без названия.md",
+    "Git/Без названия.md",
+    "Python/Пакетные менеджеры/Без названия.md",
+    "Python/Core/Без названия.md",
+    "Python/Frameworks/Flask/Без названия.md",
+    "Python/Frameworks/FastAPI/Без названия.md",
+    "Python/Frameworks/Django/Без названия.md",
+    "Python/Libraries/Без названия.md",
+    "Python/OOP/Без названия.md",
+    "Web/backend/OSI model/Без названия.md",
+    "Web/backend/REST API/Без названия.md",
+    "Web/frontend/Верстка/CSS/Без названия.md",
     "Python/Пакетные менеджеры",
     "Web/backend/REST API",
     "Web/backend/OSI model",
@@ -164,9 +182,6 @@
     "Web/frontend/Верстка/CSS",
     "Web/frontend/Верстка/HTML",
     "Web/frontend/Верстка",
-    "Python/Frameworks/FastAPI",
-    "Python/Frameworks/Flask",
-    "Python/Frameworks/Django",
     "Без названия.md",
     "Добро пожаловать.md",
     "Без названия 1.md"
