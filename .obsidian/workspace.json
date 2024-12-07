@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "94708b100e9329e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "69690240441fb9c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a04dc475ec3a1da3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76c6eba621607ce4",
+    "type": "split",
+    "children": [
+      {
+        "id": "83f95a67486d1031",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2482743c53d4e91e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "4c4c972329d8f856",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "63ab79e3ef230d91",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 505.5
+  },
+  "right": {
+    "id": "06b0ea2d7a9889c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d106dddd2d125f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01a38ac82da3e002",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "f2408b1dca6f7c09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "5191d342fafb184e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "f0d41f096cfee2b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "a04dc475ec3a1da3",
+  "lastOpenFiles": [
+    "Python/Пакетные менеджеры",
+    "Web/backend/REST API",
+    "Web/backend/OSI model",
+    "Databases/Без названия",
+    "Git",
+    "Web/frontend/Верстка/CSS",
+    "Web/frontend/Верстка/HTML",
+    "Web/frontend/Верстка",
+    "Python/Frameworks/FastAPI",
+    "Python/Frameworks/Flask",
+    "Python/Frameworks/Django",
+    "Без названия.md",
+    "Добро пожаловать.md",
+    "Без названия 1.md"
+  ]
+}
